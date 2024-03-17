@@ -5,7 +5,7 @@ pipeline {
         DOCKER_REGISTRY_URL = 'https://index.docker.io/v1/'
         DOCKER_REGISTRY_CREDENTIALS = 'dockerhub-credentials'
         DOCKER_IMAGE_TAG = 'latest' // Define the tag for the Docker image
-        DOCKER_USERNAME = 'tannuahuja14' // Your Docker Hub username
+        DOCKER_USERNAME = 'shaiff' // Your Docker Hub username
         DOCKER_IMAGE_NAME = 'myapp-go' // Your Docker image name
     }
     
